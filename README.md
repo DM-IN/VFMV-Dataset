@@ -1,4 +1,4 @@
-# VFMV_OpenDataset
+# VFMVDataset
 The first varifocal multiview (VFMV) images dataset.
 One may download the dataset by: git clone https://github.com/DM-IN/VFMV_OpenDataset.git
 
