@@ -4,3 +4,4 @@ Fruits768x512.yuv filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 Machine1024x768.yuv filter=lfs diff=lfs merge=lfs -text
 Messy_room1024x512.yuv filter=lfs diff=lfs merge=lfs -text
+Mould1024x512.yuv filter=lfs diff=lfs merge=lfs -text
