@@ -10,3 +10,4 @@ Pipes512x512.yuv filter=lfs diff=lfs merge=lfs -text
 Production_line1024x512.yuv filter=lfs diff=lfs merge=lfs -text
 (base) filter=lfs diff=lfs merge=lfs -text
 Rail768x512.yuv filter=lfs diff=lfs merge=lfs -text
+TableTennis624x432.yuv filter=lfs diff=lfs merge=lfs -text
