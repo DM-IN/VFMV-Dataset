@@ -1,4 +1,3 @@
-# VFMVDataset
 
 One may download the dataset by: 
 
